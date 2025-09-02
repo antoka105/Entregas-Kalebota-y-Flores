@@ -1,4 +1,4 @@
-# Entrea 01
+# Entrega 01
 ## Síntesis del proyecto
 En el mundo de la música, no existe reconocimiento más grande que un Premio Grammy. Desde su creación en 1959, la Academia Nacional de Artes y Ciencias de la Grabación ha premiado de forma anual aquellos logros sobresalientes en este ámbito, convirtiendo, con el paso del tiempo, al fonógrafo dorado en el premio más prestigioso y significante dentro de la industria.
 
