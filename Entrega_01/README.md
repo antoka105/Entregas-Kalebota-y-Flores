@@ -1,6 +1,9 @@
 # Entrea 01
 ## Síntesis del proyecto
-Resumen del tema en 3 a 5 párrafos. Debe incorporar antecedentes clave, breve descripción del contexto e historia.
+En el mundo de la música, no existe reconocimiento más grande que un Premio Grammy. Desde su creación en 1959, la Academia Nacional de Artes y Ciencias de la Grabación ha premiado de forma anual aquellos logros sobresalientes en este ámbito, convirtiendo, con el paso del tiempo, al fonógrafo dorado en el premio más prestigioso y significante dentro de la industria.
+
+
+
 
 ## Hipótesis
 ¿Qué se quiere demostrar o revelar? una o dos frases
