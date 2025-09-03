@@ -1,3 +1,4 @@
-Responder:
-- ¿Qué esperas contar y/o revelar del tema? ¿Cuál es el impacto que esperas generar?
-- Elabora al menos 3 ideas que te gustaría realizar para contar la historia
+- Autor y publicación de los datos: ¿quién o quienes son los propietarios o autores?, dónde se publicó (indiquen el link de descarga o ubicación, o describan cómo la obtuvieron).
+- Contenido: ¿Qué datos contiene la base? ¿Qué tipo de datos son? ¿Qué variables? ¿En qué periodo se levantaron?
+- Pertinencia: ¿Por qué esta base es valiosa para el tema de investigación? ¿De qué manera les sirve para su reportaje?
+- Metodología: ¿Cómo y dónde se levantaron los datos? ¿Con qué instrumentos? (Si deben construir el archivo de base de datos, acá va toda la información sobre el plan que se menciona arriba).
