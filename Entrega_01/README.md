@@ -2,7 +2,7 @@
 ## Síntesis del proyecto
 En el mundo de la música, no existe reconocimiento más grande que un **Premio Grammy**. Desde su creación en 1959, la Academia Nacional de Artes y Ciencias de la Grabación ha premiado de forma anual aquellos logros sobresalientes en este ámbito, convirtiendo, con el paso del tiempo, al **fonógrafo dorado** en el premio más prestigioso y significativo dentro de la industria.
 
-Hasta el año 2025 han existido 67 ediciones de los premios Grammys, una ceremonia en la que se celebran para galardonar a los mejor del año anterior en una variedad de géneros y categorías. Dentro de estos premios existen, actualmente, 90 categorías, las cuales se dividen en 29 géneros musicales y en tres subcategorías: generales, específicas y especiales. Dentro de los Grammys. las categorías que más destacan son:
+Hasta el año 2025 han existido 67 ediciones de los premios Grammys, una ceremonia en la que se celebran para galardonar a los mejor del año anterior en una variedad de géneros y categorías. Dentro de estos premios existen, actualmente, 90 categorías, las cuales se dividen en 29 géneros musicales y en tres subcategorías: generales, específicas y especiales. Dentro de los Grammys. Las categorías que más destacan son:
 
 **1. Álbum del año**
 
@@ -20,7 +20,7 @@ Para esto, analizaremos los nominados y ganadores de múltiples categorías de l
 
 ## Hipótesis
 
-La forma en que se eligen los nominados y ganadores de los premios Grammys **tiene una relación directa con la viralidad y las listas de éxitos**, sobretodo después de la expansión del *streaming* y las redes sociales.
+La forma en que se eligen los nominados y ganadores de los premios Grammys **tiene una relación directa con la viralidad y las listas de éxitos**, sobre todo después de la expansión del *streaming* y las redes sociales.
 
 ## Antecedentes del tema
 
@@ -45,8 +45,8 @@ Dentro de lo que queremos investigar no hay ningún dato que no exista, pero si 
 ¿Es la viralidad/popularidad de una canción/disco/artista un factor determinante cuando se trata de ser nominado/ganar un Grammy?
 
 ## Historia visual
-La historia en nuestro proyecto de investigación es en torno a la relaciones que se pueden crear en la decisión de elegir a un artista/álbum/canción sobre otra debido al aumento de la tecnología y el cómo la viralidad influye en la industria musical. 
-Esto se podría visualizar a través de, por ejemplo, vinilos, cd´s, después pasar a un celular y que estos vayan mostrando los diferentes artistas. Otro elemento clave en nuestro proyecto es lo auditivo, queremos que dentro de nuestra historia se interactue con estas canciones, esto le permitirá al lector conectar aún más con la página y las canciones que se están presentando. 
+La historia en nuestro proyecto de investigación es en torno a las relaciones que se pueden crear en la decisión de elegir a un artista/álbum/canción sobre otra debido al aumento de la tecnología y el cómo la viralidad influye en la industria musical. 
+Esto se podría visualizar a través de, por ejemplo, vinilos, cd´s, después pasar a un celular y que estos vayan mostrando los diferentes artistas. Otro elemento clave en nuestro proyecto es lo auditivo, queremos que dentro de nuestra historia se interactúe con estas canciones, esto le permitirá al lector conectar aún más con la página y las canciones que se están presentando. 
 
 Ejemplo: https://pudding.cool/2017/03/music-history/ 
 
@@ -55,7 +55,7 @@ Además, para visualizar de mejor manera los resultados, destacamos la importanc
 Ejemplo: 
 https://fivethirtyeight.com/features/which-super-bowl-halftime-show-had-the-most-star-power/
 
-Un tercer elemento gráfico que, a pesar de no ser tan interactivo, podría ayudar a darle dinamismo a la página es el uso de imágenes tipo collage, que muestren recortes de los distintos artistas que han ganado y han sido nominados a estos premios. Incluso, podrían poner en una especie de gráfico dejan en un "podio" a los que si han sido ganadores, a los que solo han sido nominados y a quienes han quedado excluídos. 
+Un tercer elemento gráfico que, a pesar de no ser tan interactivo, podría ayudar a darle dinamismo a la página es el uso de imágenes tipo collage, que muestren recortes de los distintos artistas que han ganado y han sido nominados a estos premios. Incluso, podrían poner en una especie de gráfico dejan en un "podio" a los que si han sido ganadores, a los que solo han sido nominados y a quienes han quedado excluidos. 
 
 ## Resultados
 El mínimo esperable respecto de esta historia es poder entregar información acerca de cambios que se vieron con el paso de los años y el aumento de la tecnología. Además de presentar otro tipo de resultados en torno al género de los artistas y el género de la música que han sido nominados a lo largo de los años.
