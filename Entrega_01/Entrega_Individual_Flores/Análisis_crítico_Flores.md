@@ -14,6 +14,10 @@ El impacto que puede llegar a tener un reportaje así, no solo implica un cambio
 
 ## 3 ideas que te gustaría realizar para contar la historia
 
-  1. Mostrar la conexión entre estos artistas virales y los premios que han ido ganando según lo viral que están siendo y han sido.
-  2. Una comparación entre los artistas con premios Grammys antes (ej.: años 60) vs. artistas hoy en día.
-  3. Mayor uso de la tecnología en la creación de composiciones musicales de los artistas hoy respecto a antes. 
+1. Mostrar la conexión entre estos artistas virales y los premios que han ido ganando según lo viral que están siendo y han sido.
+     Dar cuenta de una causa - consecuencia respecto a la elección de los galardonados.
+   
+2. Una comparación entre los artistas con premios Grammys antes (ej.: años 60) vs. artistas hoy en día.
+   Puede existir una gran diferencias respecto a criterios de selección de música entre antes y ahora.
+   
+3. Mayor uso de la tecnología en la creación de composiciones musicales de los artistas hoy respecto a antes. 
