@@ -1,11 +1,11 @@
-Año;Categoría;Artista;Disco o canción;Ganador;Género del artista/banda;Género canción
+AÃ±o;CategorÃ­a;Artista;Disco o canciÃ³n;Ganador;GÃ©nero del artista/banda;GÃ©nero canciÃ³n
 2024;Song Of The Year;Shaboozey;A Bar Song (Tipsy);False;H;Country
 2024;Song Of The Year;Billie Eilish;BIRDS OF A FEATHER;False;M;Pop
 2024;Song Of The Year;Bruno Mars featuring Lady Gaga;Die With A Smile;False;MIXTO;Pop
 2024;Song Of The Year;Taylor Swift;Fortnight;False;M;Pop
-2024;Song Of The Year;Chappell Roan;Good Luck, Babe!;False;M;Pop
+2024;Song Of The Year;Chappell Roan;Good Luck Babe!;False;M;Pop
 2024;Song Of The Year;Sabrina Carpenter;Please Please Please;False;M;Pop
-2024;Song Of The Year;Beyoncé;TEXAS HOLD 'EM;False;M;Pop Country
+2024;Song Of The Year;BeyoncÃ©;TEXAS HOLD 'EM;False;M;Pop Country
 2024;Song Of The Year;Kendrick Lamar;Not Like Us;True;H;Rap
 2023;Song Of The Year;Lana del Rey;A&W;False;M;Alternativo
 2023;Song Of The Year;Taylor Swift;Anti-Hero;False;M;Pop
@@ -19,7 +19,7 @@ Año;Categoría;Artista;Disco o canción;Ganador;Género del artista/banda;Género ca
 2022;Song Of The Year;Kendrick Lamar;The Heart Part 5;False;H;Rap
 2022;Song Of The Year;DJ Khaled;GOD DID;False;H;Rap
 2022;Song Of The Year;Adele;Easy On Me;False;M;Pop
-2022;Song Of The Year;Beyoncé;BREAK MY SOUL;False;M;House/electrónica
+2022;Song Of The Year;BeyoncÃ©;BREAK MY SOUL;False;M;House/electrÃ³nica
 2022;Song Of The Year;Taylor Swift;All Too Well (10 Minute Version);False;M;Pop
 2022;Song Of The Year;Lizzo;About Damn Time;False;M;Pop
 2022;Song Of The Year;Steve Lacy;Bad Habit;False;H;R&B
@@ -41,7 +41,7 @@ Año;Categoría;Artista;Disco o canción;Ganador;Género del artista/banda;Género ca
 2020;Song Of The Year;H.E.R.;I Can't Breathe;True;M;R&B
 2020;Song Of The Year;Taylor Swift;Cardigan;False;M;Pop
 2020;Song Of The Year;Post Malone;Circles;False;H;Pop Rock
-2020;Song Of The Year;Beyoncé;Black Parade;False;M;Pop
+2020;Song Of The Year;BeyoncÃ©;Black Parade;False;M;Pop
 2020;Song Of The Year;Roddy Rich;The Box;False;H;Rap
 2019;Song Of The Year;Lizzo;Truth Hurts;False;M;Pop
 2019;Song Of The Year;H.E.R.;Hard Place;False;M;R&B
@@ -66,7 +66,7 @@ Año;Categoría;Artista;Disco o canción;Ganador;Género del artista/banda;Género ca
 2017;Song Of The Year;Luis Fonsi & Daddy Yankee featuring Justin Bieber;Despacito;False;H;Latin Pop
 2016;Song Of The Year;Lukas Graham;7 Years;False;H;Pop
 2016;Song Of The Year;Adele;Hello;True;M;Pop
-2016;Song Of The Year;Beyoncé;Formation;False;M;Trap
+2016;Song Of The Year;BeyoncÃ©;Formation;False;M;Trap
 2016;Song Of The Year;Mike Posner;I Took A Pill In Ibiza;False;H;Folk
 2016;Song Of The Year;Justin Bieber;Love Yourself;False;H;Pop
 2015;Song Of The Year;Taylor Swift;Blank Space;False;M;Pop
@@ -100,7 +100,7 @@ Año;Categoría;Artista;Disco o canción;Ganador;Género del artista/banda;Género ca
 2010;Song Of The Year;Cee Lo Green;Fuck You;False;H;Pop
 2010;Song Of The Year;Miranda Lambert;The House That Built Me;False;M;Country
 2009;Song Of The Year;Taylor Swift;You Belong With Me;False;M;Country Pop
-2009;Song Of The Year;Beyoncé;Single Ladies (Put A Ring On It);True;M;Pop
+2009;Song Of The Year;BeyoncÃ©;Single Ladies (Put A Ring On It);True;M;Pop
 2009;Song Of The Year;Maxwell;Pretty Wings;False;H;R&B
 2009;Song Of The Year;Kings of Leon;Use Somebody;False;H;Rock
 2009;Song Of The Year;Lady Gaga;Poker Face;False;M;Pop
