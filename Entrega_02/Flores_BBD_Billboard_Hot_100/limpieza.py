@@ -7,7 +7,8 @@ df = pd.read_csv("BDD_Billboard_copia.csv", low_memory=False)
 df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
 
 # === 1. Rellenar valores faltantes con "#" ===
-df = df.fillna("#")
+df[col] = pd.to_numeric(df[col], errors="coerce")
+df[col] = df[col].fillna("#")
 
 df.drop(columns=["url"], errors="ignore"
 
