@@ -18,6 +18,11 @@ try:
 except:
     pass
 
+    df.drop(columns=["image_url"], errors="ignore")
+    
+df = df.fillna("#")
+
+
 # === 4. Convertir columnas numéricas ===
 num_cols = ["rank", "last_week", "peak_position", "weeks_in_charts"]
 for col in num_cols:
