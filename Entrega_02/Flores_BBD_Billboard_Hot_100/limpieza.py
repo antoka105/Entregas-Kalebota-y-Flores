@@ -9,6 +9,8 @@ df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
 # === 1. Rellenar valores faltantes con "#" ===
 df = df.fillna("#")
 
+df.drop(columns=["url"], errors="ignore"
+
 # === 2. Eliminar duplicados ===
 df = df.drop_duplicates()
 
