@@ -19,3 +19,7 @@ Las bases de datos al estar armadas, constribuyeron a definir de mejor manera el
 Por el momento, decidimos delimitarlas, ya que estas bases eran muy extensas y contaban con una cantidad de información que no aportaba en el análisis que queremos formular. Quisimos delimitar nuestro proyecto a los últimos 25 años de la historia de los premios Grammy, ya que creemos que nos será más fácil trabajar con estos datos y, al mismo tiempo, podremos analizar cambios en los patrones o parámetros de los nominados y ganadores de los premios debido a los cambios drásticos del último cuarto de siglo. 
 
 ## Síntesis de la historia
+
+Los Grammys se han consolidado como el premio más importante que un músico puede recibir en su carrera, pero cada año que pasa una nueva ceremonia surgen las controversias y las dudas sobre cuáles son los parámetros que se utilizan para premiar y si realmente se está premiando lo mejor de la música o lo mejor de un pequeño grupo de artistas.
+
+Con nuestra investigación pretendemos definir si efectivamente existen características que hacen que un artista sea más nominado que otros. Las características a analizar son cosas como: La popularidad de cierta canción/disco en las listas de éxitos, el género del artista (hombre, mujer, no binario) y el género de la música (pop, rock, electrónica, etc.). Con esto descubrir que hace que una canción/disco/artista sea nominada o gane por sobre otra. 
