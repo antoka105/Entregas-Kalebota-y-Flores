@@ -1,1 +1,1 @@
-Acá va nuestro REDAME general
+Acá va nuestro README general
