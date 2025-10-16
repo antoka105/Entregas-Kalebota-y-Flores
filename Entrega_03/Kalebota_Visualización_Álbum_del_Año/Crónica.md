@@ -12,7 +12,7 @@ Con el paso del tiempo, los gustos musicales han cambiado, y lo que se considera
 Para responder esto, podemos observar como ha variado el criterio a partir de los discos nominados a Álbum de Año en los últimos 20 años. Según la Academia, esta categoría reconoce “logros artísticos, habilidad técnica y excelencia general en la industria discográfica, sin considerar ventas, posición en listas, ni críticas”. En teoría, el premio se basa en la valoración interna de los miembros de la Academia, sin influencias externas.
 
 
-![Gráfico Álbum del Año](Entrega_03/Kalebota_Visualización_Álbum_del_Año/Visualización/Visualización_Álbum_del_Año.png "Gráfico Álbum del Año")
+![Gráfico Álbum del Año](https://github.com/antoka105/Entregas-Kalebota-y-Flores/blob/main/Entrega_03/Kalebota_Visualizaci%C3%B3n_%C3%81lbum_del_A%C3%B1o/Visualizaci%C3%B3n/Visualizaci%C3%B3n_%C3%81lbum_del_A%C3%B1o.png "Gráfico Álbum del Año")
 
 
 Sin embargo, los datos sugieren otra cosa. Hasta 2008, los nominados abarcaban varios géneros, lo que indicaba una búsqueda real de calidad y diversidad. Pero desde 2009 se nota un cambio: el pop comienza a dominar progresivamente la categoría. Con excepción de 2018, todos los años hay al menos un álbum pop nominado, y a partir de 2019 su presencia aumenta aún más, entre tres y seis nominados pertenecen a este género. Incluso cuando en 2018 se amplió el número de nominados, no se diversificaron los estilos: el pop simplemente ocupó más espacio.
