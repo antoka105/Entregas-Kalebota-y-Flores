@@ -2,6 +2,7 @@
 
 1. Para comenzar el proceso de crear la visualización, subí la base de datos, ya limpia y ordenada, de la categoría de Álbum del Año a Google Colab. 
 1. Luego de subirla, cargué los datos y renombré algunas columnas que tenían caracteres borrados, ya que se reemplazaron las letras con tílde por un signo de interrogación. También tuve que cambiar un valor dentro de la columna de "Género disco", ya que en el género de Reggaetón también se había reemplazado la letra con tilde por un signo de interrogación. Todo esto por una cosa de estética más que nada, ya que no afecta los datos en sí. 
+1. Finalmente, para simplificar los datos, decidí crear una categoría de "Otro" para aquellos géneros que aparecen pocas veces en los datos, esto para simplificar la visualización.
 1. Luego, pensé que quería visualizar. En este caso, me interesaba visualizar la variación en los géneros de los discos nominados por año, ya que sabía que en la actualidad la mayoría de los nominados son Pop, y quería ver cuándo esto había empezado a ser así y si en años anteriores era otro género el que dominaba o si era más parejo.
 1. Para comenzar con la visualización, agrupé los datos por año y género musical, para que así se pudiera contar cuántos discos hay en cada combinación de año y género.
 1. Luego, con Altair armé un gráfico de barras horizontales, dónde en el eje X están la cantidad de discos nominados y en el eje Y están los años, yendo del 2000 al 2024. En cuanto a las barras, cada color representa un género musical.
