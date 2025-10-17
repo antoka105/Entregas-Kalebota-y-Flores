@@ -17,7 +17,7 @@ A diferencia de muchos programas/listas radiales que tienden a ser simples está
 
 
 
-**¿Cómo se relaciona esto con los Grammys**
+**¿Cómo se relaciona esto con los Grammys?**
 
 A pesar de que los premios Grammys cuentan con sus propios barómetros, la comparación de la nominación a estos premios o el ser galardonado puede ser comparado con la lista Billboard Hot 100, la cual cuenta con el sustento necesario para determinar si los galardonados/nominados realmente fueron escuchados por las personas. 
 
