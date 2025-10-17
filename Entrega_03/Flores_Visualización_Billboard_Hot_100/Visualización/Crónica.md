@@ -1,4 +1,4 @@
-# ¿Son los artistas más escuchados según la lista Billboard Hot 100 los más galardonados?
+# ¿Son los artistas nominados/galardonados en los Grammys los realmente más escuchados?
 
 La lista Billboard Hot 100, la lista de éxitos musicales más conocida de Estados Unidos y el mundo es uno de los parámetros con los que cuenta la industria musical y el las personas para saber cuáles son las canciones que son más escuchadas por las personas, cuáles son las más populares. 
 Este listado de canciones se publica cada sábado, cubriendo los 7 días de la semana, incluso, el mismo sábado en el que se publica. 
