@@ -4,7 +4,7 @@ Obtención: De investigación de campo.
 
 Estado: Procesados
 
-Según su uente: Abierta.
+Según su fuente: Abierta.
 
 Categoría: Estructurados.
 
