@@ -1,0 +1,1 @@
+Te hice este archivo para que puedas subir la crónica sin tener que mover las cosas de carpeta.
