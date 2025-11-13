@@ -1,0 +1,1 @@
+Además, se debe anexar un documento con (1) la descripción de la lectura visual de la pieza, y (2) de qué manera los elementos visuales, los datos y prosa potencian y clarifican el mensaje comunicacional de la pieza.
