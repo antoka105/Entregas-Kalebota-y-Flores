@@ -16,4 +16,8 @@ Para realizar el wireframe, definimos que la mejor forma de contar la historia e
 
 El el prototipo no están considerados todos los elementos gráficos que, por ejemplo, se pueden ver en las visualizaciones atómicas, pero si pensamos agregarlos en el sitio final de ser posible. 
 
-## Hipótesis y propuesta actual
+## Hipótesis
+Desde la expansión del streaming y las redes sociales, el rendimiento comercial de una canción se ha vuelto un efecto predictor de las nominaciones y premios Grammy.
+
+## Propuesta actual
+Analizar cómo la transformación del consumo musical, especialmente por el streaming y la viralidad en redes sociales, modificó el perfil de los artistas que dominan el Billboard Hot 100 y, en consecuencia, cómo estos cambios se reflejan en las nominaciones y premios Grammy a lo largo de los últimos 25 años.
