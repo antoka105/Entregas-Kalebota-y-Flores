@@ -1,4 +1,3 @@
-Además, se debe anexar un documento con (1) la descripción de la lectura visual de la pieza, y (2) de qué manera los elementos visuales, los datos y prosa potencian y clarifican el mensaje comunicacional de la pieza.
 ## Visualización atómica
 
 La visualización está armada pensando en los elementos que se utilizarán en el sitio, probablemente no es exactamente como se verá, pero si busqué implementar la mayor cantidad de elementos para tener una idea clara de lo que queremos lograr visualmente con la webstory.
