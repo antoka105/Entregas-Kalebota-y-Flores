@@ -1,0 +1,173 @@
+body {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 0;
+    background-image: url(./images/Fondo-sitio.png);
+    background-color: #1d1d1b;
+
+
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:#eae4da
+}
+
+
+#encabezado {
+  font-family: "syne";
+  color: #eae4da ;
+  background-color: #1d1d1b;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  display: flex;          /* coloca logo y textos lado a lado */
+  align-items: center;    /* centra verticalmente */
+  gap: 15px;              /* espacio entre logo y texto */
+  padding: 10px;
+}
+
+.logo {
+  width: 200px;            /* ajusta el tamaño del logo */
+  height: auto;
+}
+
+.texto {
+  display: flex;
+  flex-direction: column; /* título arriba, subtítulo abajo */
+}
+
+.titulo {
+  margin: 0;              /* elimina espacios extra */
+  font-size: 45px;
+}
+
+.subtitulo {
+  margin: 0;
+  font-size: 23px;
+  
+}
+  
+
+#grupo1 {
+
+text-align: center;
+ display: flex;
+ align-items: center;
+ gap:20px;
+
+}
+
+.cuadro {
+  position: relative;
+  text-align: center;
+  color: white;
+  size: 90%;
+}
+
+.texto1 {
+  position: absolute;
+  top: 90%;
+  left: 53%;
+  transform: translate(-20%, -50%);
+  color: #eae4da;
+  text-align: justify;
+  }
+
+#grupo2 {
+
+ display: flex;
+ align-items: center;
+gap: 20px;
+
+}
+
+.cuadro2 {
+  position: relative;
+  text-align: center;
+  color: white;
+  size: 110%;
+}
+
+.texto2 {
+  position: absolute;
+  bottom: -20;
+  background-color: transparent;
+  color: #eae4da;
+  padding-left: 10%;
+  padding-right: 48%;
+  text-align: justify;
+}
+
+#grupo3 {
+
+ text-align: center;
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 30px;
+
+}
+
+#cuadro3 {
+  position: relative;
+  text-align: center;
+  color: white;
+  size: 110%;
+  padding-left: 18%;
+}
+
+#texto3 {
+  position: absolute;
+  bottom: -20;
+  background-color: transparent;
+  color: #eae4da;
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: justify;
+}
+
+#grupo4 {
+
+ align-items: center;
+ display: flex;
+ gap: 20px;
+ padding: 15px;
+}
+
+#cuadro4 {
+  position: relative;
+  text-align: center;
+  color: white;
+ 
+}
+
+#texto4 {
+  position: absolute;
+  bottom: -173%;
+  background-color: transparent;
+  color: #eae4da;
+  padding-left: 7%;
+  padding-right: 43%;
+  text-align: justify;
+}
+
+#subtítulo {
+
+  font-family: "syne";
+  color: #eae4da ;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  text-align: center;
+  gap: -10px;
+  font-size: 15px;
+
+}
+
+
+
+#estrellas{
+text-align: center;
+
+}
