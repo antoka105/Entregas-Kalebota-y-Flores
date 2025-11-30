@@ -1,0 +1,84 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(/docs/Fondo-sitio.png);
+
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:#eae4da;
+  background-color: #1d1d1b;
+}
+
+#encabezado {
+
+text-align: center;
+
+}
+
+#cuerpo1 {
+
+ display: flex;
+ align-items: center;
+ gap:20px;    
+
+}
+
+#subtítulo {
+
+  font-family: "syne";
+  color: #eae4da ;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  gap: 0px;
+
+}
+
+#vis1 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro3.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+
+  padding: 40px;
+  
+}
+
+#vis2 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+
+  padding: 50px;
+  
+}
+
+#cuerpo3 {
+
+ display: flex;
+ align-items: center;
+ gap:20px;    
+
+}
+
+#botones {
+
+text-align: center;
+padding-top: 60px;
+
+}
+
+#categorías {
+
+text-align: center;
+
+}
