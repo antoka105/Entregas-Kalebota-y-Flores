@@ -70,6 +70,19 @@ text-align: center;
 
 }
 
+#spotify {
+
+  font-family: "syne";
+  color: #eae4da ;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  text-align:left;
+  font-size: small;
+  gap: 0px;
+
+}
+
 #botones {
 
 text-align: center;
