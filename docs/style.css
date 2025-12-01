@@ -167,6 +167,7 @@ gap: 20px;
   text-align: center;
   gap: -10px;
   font-size: 15px;
+  padding: 20px;
 
 }
 
@@ -175,4 +176,12 @@ gap: 20px;
 #estrellas{
 text-align: center;
 
+}
+
+#footer {
+
+  background-color: #1d1d1b;
+  color: #1d1d1b;
+  size: 100px;
+  padding: 50px;
 }
