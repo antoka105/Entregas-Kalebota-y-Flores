@@ -27,6 +27,7 @@ body {
   padding: 10px;
 }
 
+
 .logo {
   width: 200px;            /* ajusta el tamaño del logo */
   height: auto;
@@ -46,6 +47,10 @@ body {
   margin: 0;
   font-size: 23px;
   
+}
+
+.nombres {
+  font-size: 13px;
 }
   
 
