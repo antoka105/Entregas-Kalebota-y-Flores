@@ -21,7 +21,10 @@ text-align: center;
 
  display: flex;
  align-items: center;
- gap:20px;    
+ gap:20px; 
+ padding-left: 50px;
+ padding-right: 50px; 
+ text-align: justify;  
 
 }
 
@@ -33,6 +36,17 @@ text-align: center;
   align-items:center;
   justify-content: center;
   gap: 0px;
+
+}
+
+#cuerpo2 {
+
+ display: flex;
+ align-items: center;
+ gap:20px; 
+ padding-left: 50px;
+ padding-right: 50px; 
+ text-align: justify;  
 
 }
 
@@ -57,10 +71,22 @@ text-align: center;
   background-size: contain;           /* ajusta la imagen */
   background-repeat: no-repeat;
   background-position: center;
-
   padding: 50px;
   
 }
+
+#vis3 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
+
 
 #cuerpo3 {
 
