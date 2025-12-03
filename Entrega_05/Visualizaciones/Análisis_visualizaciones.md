@@ -16,6 +16,6 @@ La visualización profundiza lo que propone el gráfico que muestra a todos los 
 
 ## Visualización Billboard Hot 100 y Álbum del Año
 
-En esta visualización se buscó analizar cuáles de los artistas reconocidos por a través de los premios Grammy estuvieron presentes en la lista Billboard Hot 100. A través de esta visualización se intentó dar cuenta que si hay cambios significativos respecto a la viralidad y a la nominación de los artistas. Además de mostrar cuál es el "camino" recorrido por cada uno de estos nueve artistas escogidos aleatoriamente. 
+En esta visualización se buscó analizar cuáles de los artistas reconocidos por los premios Grammy estuvieron presentes en la lista Billboard Hot 100. A través de esta visualización se intentó dar cuenta que si hay cambios significativos respecto a la viralidad y a la nominación de los artistas. Además de mostrar cuál es el "camino" recorrido por cada uno de estos nueve artistas escogidos aleatoriamente. 
 
 A partir de esta visualización se puede dar cuenta de ciertos puntos de la hipótesis inicial y dar paso a contar ciertas historias individuales. 
