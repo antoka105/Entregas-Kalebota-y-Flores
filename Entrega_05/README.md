@@ -1,6 +1,6 @@
 ## Títular reportaje
 
-Las principales categorías de los Premios Grammy en los últimos 25 años: Una tendencia hacia la popularidad
+Los Premios Grammy en los últimos 25 años: Una tendencia hacia la popularidad
 
 ## Resumen reportaje
 
