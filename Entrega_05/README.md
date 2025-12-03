@@ -14,6 +14,8 @@ Nuestra hipótesis inicial era: Los nominamdos y ganadores de los premios Grammy
 
 No pudimos comprobar la hipótesis del todo, ya que, a pesar de que hay relaciones interesantes entre las posiciones de un artista/canción en las listas, no se puede demostrar una relación 100% directa entre los ganadores/nominados de una categoría y su posición en las listas de éxitos.
 
+De todas formas, si existen historias interesantes de analizar al relacionar las listas con los ganadores/nominados de las categorías.
+
 ## Tabla de autoría
 
 Elemento | Antonia Kalebota | Laura Flores
