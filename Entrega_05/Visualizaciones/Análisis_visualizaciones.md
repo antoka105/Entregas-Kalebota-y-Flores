@@ -1,5 +1,3 @@
-Análisis de sus visualizaciones en relación con la historia que están contando: ¿Qué dimensiones y mensajes quieren comunicar con ellas?
-
 ## Visualización nominados Álbum del Año
 
 Con esta primera visualización se busca mostrar la cantidad de géneros musicales que han sido nominados en la categoría de Álbum del Año en los últimos 25 años. Específicamente, se busca mostrar como el género Pop ha ido tomando terreno, disminuyendo la mayor cantidad de nominados que se veían en años anteriores. A pesar de que se puede ver que en la actualidad hay múltiples géneros, la visualización busca mostrar que, dentro de estos, el Pop usa una gran mayoría del espacio.
