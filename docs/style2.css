@@ -77,7 +77,7 @@ text-align: center;
 
 #vis3 {
 
-  display: flex;
+  display: block;
   justify-content: center;
   background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
   background-size: contain;           /* ajusta la imagen */
@@ -92,8 +92,10 @@ text-align: center;
 
  display: flex;
  align-items: center;
- gap:20px;    
-
+ gap:20px; 
+ padding-left: 50px;
+ padding-right: 50px; 
+ text-align: justify; 
 }
 
 #spotify {
@@ -108,6 +110,31 @@ text-align: center;
   gap: 0px;
 
 }
+
+#texto {
+
+  font-family: "syne";
+  color: #1d1d1b ;
+  text-align:center;
+  font-size:large;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 0px;
+
+}
+
+#spotifyytexto {
+
+  display: block;
+  justify-content: center;
+  background-image: url("./images/Rectángulo-redondeado.png"); /* tu imagen de marco */
+  background-size:cover;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+}
+
 
 #botones {
 
