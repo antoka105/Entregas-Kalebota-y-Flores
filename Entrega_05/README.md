@@ -1,12 +1,18 @@
 ## Títular reportaje
 
+Las principales categorías de los Premios Grammy en los últimos 25 años: Una tendencia hacia la popularidad
+
 ## Resumen reportaje
 
-¿de qué se trata la historia?
+La historia analiza los ganadores y nominados de las cuatro principales categorías de los Grammys (Álbum del Año, Canción del Año, Grabación del Año y Mejor Artista Nuevo) para explorar si la viralidad y la popularidad de las canciones se ha vuelto un factor relevante en los premios o si se ha mantenido el frente de premiar la "excelencia" musical
+
+También, para tener parámetros claros sobre la popularidad, se analizan estas mismas canciones y artistas dentro de la lista de éxitos Billboard Hot 100, para ver si las posiciones en estas realmente influencian las posibilidades de ser nominado y ganar.
 
 ## Análisis hipótesis
 
-¿lograron demostrar su hipotesis inicial? ¿Cómo evolucionó a lo largo del trabajo?
+Nuestra hipótesis inicial era: Los nominamdos y ganadores de los premios Grammys **tienen una relación directa con factores como la viralidad, las listas de exitos (lugar más alto, semanas en el ranking)**, sobre todo después de la expansión del *streaming* y las redes sociales en los últimos 25 años. 
+
+No pudimos comprobar la hipótesis del todo, ya que, a pesar de que hay relaciones interesantes entre las posiciones de un artista/canción en las listas, no se puede demostrar una relación 100% directa entre los ganadores/nominados de una categoría y su posición en las listas de éxitos.
 
 ## Tabla de autoría
 

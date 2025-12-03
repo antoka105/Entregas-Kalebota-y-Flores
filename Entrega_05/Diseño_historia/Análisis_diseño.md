@@ -8,9 +8,7 @@ La idea es que existan grandes temas que se repitan en las cuatro categorías, p
 
 ## Comentarios sobre crónica y textos
 
-titular, bajada, secciones o subtítulos, entre otros: ¿Por qué usaron tal o cual estilo narrativo? ¿De qué manera la redacción refuerza la historia de sus visualizaciones?
-
-
+La redacción es bastante directa, no es muy formal ni informal. Consideramos que mantiene la cercanía del tema y, al mismo tiempo, entrega los datos de forma clara y precisa. 
 
 ## Decisiones elementos visuales
 
