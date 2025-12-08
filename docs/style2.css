@@ -87,6 +87,65 @@ text-align: center;
   
 }
 
+#vis4 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
+
+#vis5 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
+
+#vis7 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
+
+#vis8 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
+
+#vis6 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
 
 #cuerpo3 {
 
