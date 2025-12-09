@@ -181,7 +181,8 @@ text-align: center;
 #footer {
 
   background-color: #1d1d1b;
-  color: #1d1d1b;
+  color: #eae4da;
   size: 100px;
   padding: 50px;
+  opacity: 60%;
 }
