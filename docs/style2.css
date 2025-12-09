@@ -103,7 +103,7 @@ text-align: center;
 
   display: flex;
   justify-content: center;
-  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-image: url("./images/cuadro8.png"); /* tu imagen de marco */
   background-size: contain;           /* ajusta la imagen */
   background-repeat: no-repeat;
   background-position: center;
@@ -115,8 +115,8 @@ text-align: center;
 
   display: flex;
   justify-content: center;
-  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
-  background-size: cover;           /* ajusta la imagen */
+  background-image: url("./images/cuadro9.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
   background-repeat: no-repeat;
   background-position: center;
   padding: 50px;
@@ -148,6 +148,18 @@ text-align: center;
 }
 
 #vis6 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro7.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
+
+#vis9 {
 
   display: flex;
   justify-content: center;
