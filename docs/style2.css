@@ -19,7 +19,7 @@ text-align: center;
 
 #cuerpo1 {
 
- display: flex;
+ display: block;
  align-items: center;
  gap:20px; 
  padding-left: 50px;
@@ -50,6 +50,17 @@ text-align: center;
 
 }
 
+#cuerpo3 {
+
+ display: flex;
+ align-items: center;
+ gap:20px; 
+ padding-left: 50px;
+ padding-right: 50px; 
+ text-align: justify; 
+}
+
+
 #vis1 {
 
   display: flex;
@@ -77,10 +88,11 @@ text-align: center;
 
 #vis3 {
 
-  display: block;
-  justify-content: center;
-  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
-  background-size: contain;           /* ajusta la imagen */
+  display:flex;
+  justify-content:center;
+  text-align: center;
+  background-image: url("./images/cuadro3.png"); /* tu imagen de marco */
+  background-size:contain;           /* ajusta la imagen */
   background-repeat: no-repeat;
   background-position: center;
   padding: 50px;
@@ -104,7 +116,7 @@ text-align: center;
   display: flex;
   justify-content: center;
   background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
-  background-size: contain;           /* ajusta la imagen */
+  background-size: cover;           /* ajusta la imagen */
   background-repeat: no-repeat;
   background-position: center;
   padding: 50px;
@@ -139,22 +151,12 @@ text-align: center;
 
   display: flex;
   justify-content: center;
-  background-image: url("./images/cuadro4.png"); /* tu imagen de marco */
+  background-image: url("./images/cuadro7.png"); /* tu imagen de marco */
   background-size: contain;           /* ajusta la imagen */
   background-repeat: no-repeat;
   background-position: center;
   padding: 50px;
   
-}
-
-#cuerpo3 {
-
- display: flex;
- align-items: center;
- gap:20px; 
- padding-left: 50px;
- padding-right: 50px; 
- text-align: justify; 
 }
 
 #spotify {
