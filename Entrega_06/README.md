@@ -4,7 +4,7 @@ Los Premios Grammy en los últimos 25 años: ¿Una tendencia hacia la popularida
 
 ## Resumen reportaje
 
-La historia analiza los ganadores y nominados de las cuatro principales categorías de los Grammys (Álbum del Año, Canción del Año, Grabación del Año y Mejor Artista Nuevo) para explorar si la viralidad y la popularidad de las canciones se ha vuelto un factor relevante en los premios o si se ha mantenido el frente de premiar la "excelencia" musical
+La historia analiza los ganadores y nominados de las tres principales categorías de los Grammys (Álbum del Año, Canción del Año y Grabación del Año) para explorar si la viralidad y la popularidad de las canciones se ha vuelto un factor relevante en los premios o si se ha mantenido el frente de premiar la "excelencia" musical
 
 También, para tener parámetros claros sobre la popularidad, se analizan estas mismas canciones y artistas dentro de la lista de éxitos Billboard Hot 100, para ver si las posiciones en estas realmente influencian las posibilidades de ser nominado y ganar.
 
