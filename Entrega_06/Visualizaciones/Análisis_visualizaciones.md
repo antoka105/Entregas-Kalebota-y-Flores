@@ -26,9 +26,6 @@ Esta visualización buscaba ilustrar y comparar la viralidad/popularidad de Tayl
 
 El fin de  esta visualización era ilustrar el peak que tuvo Billie Eilish en su corta carrera musical. Estos datos obtenidos de Billboard Hot 100 fueron comparados con los años en que fue nominada y galardona a Mejor Canción del Año. Se pudo demostrar que en su corta carrera, las veces que ganó este premio, con la canción "bad guy", su popularidad estaba en el máximo nivel. Sin embargo, con su otra canción "What Was I Made For?" no ocurrió así, pudimos inferir que esto se debe a que su nominación y posterior premiación se debió a la influencia de la película Barbie de ese momento, la cual incluyó como canción principal el éxito de Billie Elish. 
 
-## Visualización Maroon 5
-
-Esta visualización tiene como fin ilustrar que no siempre la viralidad influye en las nominaciones a los Grammy, de alguna forma, va "en contra" de nuestra hipótesis inicial. Maroon 5 ganó en 2004 en la nominación a Mejor Artista Nuevo, sin embargo, no volvió a aparecer en las categorías que seleccionamos. A pesar de esto, siguió teniendo una gran viralidad dentro de la lista Billboard. 
 
 ## Visualización Dixie Chicks
 
