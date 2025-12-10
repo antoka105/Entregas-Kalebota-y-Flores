@@ -27,3 +27,5 @@ Para la tercera visualización de este trabajo se unieron ambas bases de datos, 
 No se tomaron todos los artistas dentro de la lista de quienes habían ganado Álbum del Año, sino que fueron seleccionados al azar, para poder tomar una muestra y finalmente centrarnos en la historia específica de cada uno de estos artistas y para poder investigar mejor la proyección y los cambios existentes. 
 
 En la visualización se buscó diferenciar el mayor peak del menor a través del tamaño. 
+
+Para las nuevas visualizaciones se usaron las mismas bases de datos, solo que se seleccionaron los datos más relevantes para cada historia (Taylor Swift, Billie Eilish, Dixie Chicks y Maroon 5). Esto solo por temas prácticos y para poder visualizar mejor la información que se quería analizar. 
