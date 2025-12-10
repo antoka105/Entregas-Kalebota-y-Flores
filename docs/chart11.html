@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis11"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 600, "continuousHeight": 400}}, "layer": [{"data": {"name": "data-c21d3b2060802b3a10245e9fdadf890d"}, "mark": {"type": "line", "color": "#E63946", "strokeWidth": 3}, "encoding": {"x": {"field": "A\u00f1o", "title": "A\u00f1o", "type": "ordinal"}, "y": {"field": "Hits_Top5", "title": "Canciones en Top 5", "type": "quantitative"}}}, {"data": {"name": "data-9a1573d4c4244518c2666d073eb4c727"}, "mark": {"type": "text", "fontSize": 40, "fontWeight": "bold", "text": "\u266a"}, "encoding": {"color": {"field": "Gan\u00f3", "scale": {"domain": ["Gan\u00f3", "Nominada"], "range": ["#EAC119", "#C39BD3"]}, "title": "Resultado Grammy", "type": "nominal"}, "tooltip": [{"field": "A\u00f1o", "type": "quantitative"}, {"field": "Evento", "type": "nominal"}, {"field": "Gan\u00f3", "type": "nominal"}], "x": {"field": "A\u00f1o", "type": "ordinal"}, "y": {"value": 58.5}}}, {"data": {"name": "data-9a1573d4c4244518c2666d073eb4c727"}, "mark": {"type": "text", "align": "center", "baseline": "top", "color": "black", "dy": 40, "fontSize": 11, "fontWeight": "bold", "stroke": "black", "strokeWidth": 0.2}, "encoding": {"text": {"field": "Evento", "type": "nominal"}, "x": {"field": "A\u00f1o", "type": "ordinal"}, "y": {"value": 58.5}}}, {"data": {"name": "data-9a1573d4c4244518c2666d073eb4c727"}, "mark": {"type": "rule", "color": "gray", "strokeWidth": 1}, "encoding": {"x": {"field": "A\u00f1o", "type": "ordinal"}, "y": {"value": 58.2}, "y2": {"value": 57.3}}}, {"data": {"name": "data-9a1573d4c4244518c2666d073eb4c727"}, "mark": {"type": "point", "color": "gray", "shape": "triangle-down", "size": 80}, "encoding": {"x": {"field": "A\u00f1o", "type": "ordinal"}, "y": {"value": 57.3}}}, {"data": {"name": "empty"}, "mark": {"type": "text", "align": "center", "dy": -240, "fontSize": 22, "fontWeight": "bold", "text": "Maroon 5: Evoluci\u00f3n en Billboard y A\u00f1os de Grammy (AOTY)"}}, {"data": {"name": "empty"}, "mark": {"type": "text", "align": "center", "color": "gray", "dy": -215, "fontSize": 14, "text": "L\u00ednea = Canciones Top 5 por a\u00f1o | \u00cdconos \u266a = AOTY (dorado=gan\u00f3, p\u00farpura=nominada)"}}], "height": 480, "width": 950, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-c21d3b2060802b3a10245e9fdadf890d": [{"A\u00f1o": 2003, "Hits_Top5": 1}, {"A\u00f1o": 2004, "Hits_Top5": 50}, {"A\u00f1o": 2005, "Hits_Top5": 18}, {"A\u00f1o": 2007, "Hits_Top5": 26}, {"A\u00f1o": 2010, "Hits_Top5": 3}, {"A\u00f1o": 2011, "Hits_Top5": 1}, {"A\u00f1o": 2012, "Hits_Top5": 20}, {"A\u00f1o": 2013, "Hits_Top5": 17}, {"A\u00f1o": 2014, "Hits_Top5": 13}, {"A\u00f1o": 2015, "Hits_Top5": 57}, {"A\u00f1o": 2017, "Hits_Top5": 1}, {"A\u00f1o": 2018, "Hits_Top5": 1}, {"A\u00f1o": 2019, "Hits_Top5": 7}, {"A\u00f1o": 2020, "Hits_Top5": 29}], "data-9a1573d4c4244518c2666d073eb4c727": [{"A\u00f1o": 2004, "Evento": "Best New Artist", "Gan\u00f3": "Gan\u00f3"}], "empty": [{}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis11');
+      vegaEmbed("#vis11", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

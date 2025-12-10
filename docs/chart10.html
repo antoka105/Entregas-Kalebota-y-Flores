@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis10"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 600, "continuousHeight": 400}, "autosize": {"contains": "padding", "type": "pad"}}, "layer": [{"data": {"name": "data-8a3fcabb6f8892d798074c2749a2fa7f"}, "mark": {"type": "line", "color": "pink", "strokeWidth": 3}, "encoding": {"x": {"field": "A\u00f1o", "title": "A\u00f1o", "type": "ordinal"}, "y": {"axis": {"values": [1, 2, 3, 4]}, "field": "Hits_Top5", "scale": {"reverse": true}, "title": "Posiciones en el Top 5", "type": "quantitative"}}}, {"data": {"name": "data-b05878cde1ae99fee983a662b3956e57"}, "mark": {"type": "text", "dy": 160, "fontSize": 38, "fontWeight": "bold", "text": "\u266a"}, "encoding": {"color": {"field": "Resultado_Ganador", "scale": {"domain": ["Gan\u00f3"], "range": ["#EAC119"]}, "title": "Resultado Grammy", "type": "nominal"}, "tooltip": [{"field": "A\u00f1o", "type": "quantitative"}, {"field": "Premio", "type": "nominal"}, {"field": "Resultado_Ganador", "type": "nominal"}], "x": {"field": "A\u00f1o", "type": "ordinal"}, "y": {"value": 14}}}, {"data": {"name": "data-b05878cde1ae99fee983a662b3956e57"}, "mark": {"type": "text", "dy": 180, "fontSize": 13, "fontWeight": "bold"}, "encoding": {"text": {"field": "Premio", "type": "nominal"}, "x": {"field": "A\u00f1o", "type": "ordinal"}, "y": {"value": 14}}}, {"data": {"name": "empty"}, "mark": {"type": "text", "align": "center", "dy": -250, "fontSize": 10, "fontWeight": "bold", "text": "Dixie Chicks: Evoluci\u00f3n en Billboard y A\u00f1os de Grammy (ROTY)"}}, {"data": {"name": "empty"}, "mark": {"type": "text", "align": "center", "color": "gray", "dy": -225, "fontSize": 15, "text": "L\u00ednea = Posiciones en el Top 5 por a\u00f1o | \u00cdconos \u266a = ROTY"}}], "height": 400, "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-8a3fcabb6f8892d798074c2749a2fa7f": [{"A\u00f1o": 2000, "Hits_Top5": 3}, {"A\u00f1o": 2001, "Hits_Top5": 1}, {"A\u00f1o": 2002, "Hits_Top5": 3}, {"A\u00f1o": 2003, "Hits_Top5": 1}, {"A\u00f1o": 2006, "Hits_Top5": 2}, {"A\u00f1o": 2007, "Hits_Top5": 4}], "data-b05878cde1ae99fee983a662b3956e57": [{"A\u00f1o": 2006, "Categoria": "Record Of The Year", "Artista": "Dixie Chicks", "Disco o cancion": "Not Ready To Make Nice", "Ganador": true, "Genero del arista/banda": "M", "Genero disco": "Country", "Ganador_norm": true, "Resultado_Ganador": "Gan\u00f3", "Premio": "Record of the Year"}], "empty": [{}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis10');
+      vegaEmbed("#vis10", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -168,6 +168,32 @@ text-align: center;
   background-repeat: no-repeat;
   background-position: center;
   padding: 50px;
+  width: 600;
+  height: 400 ; 
+  
+}
+
+#vis10 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro11.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
+  
+}
+
+#vis11 {
+
+  display: flex;
+  justify-content: center;
+  background-image: url("./images/cuadro10.png"); /* tu imagen de marco */
+  background-size: contain;           /* ajusta la imagen */
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px;
   
 }
 
