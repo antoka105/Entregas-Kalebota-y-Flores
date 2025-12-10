@@ -1,8 +1,8 @@
 ## Análisis diseño de la información e interacción
 
-La estructura narrativa definida está compuesta por un sitio principal, el cuál introduce el tema, para que luego el usuario pueda elegir cada una de las cuatro categorías principales de los Grammys para ver su análisis respectivo. 
+La estructura narrativa definida está compuesta por un sitio principal, el cuál introduce el tema, para que luego el usuario pueda elegir cada una de las tres categorías principales de los Grammys para ver su análisis respectivo. 
 
-Dentro de las sub páginas, la estructura tendrá 3 partes: análisis solo de la categoría, como se relaciona con las listas de éxitos y conclusiones finales. Al final de la página está la opción de explorar las otras categorías o volver al inicio.
+Dentro de las sub páginas, la estructura analizará la categoría en sí (nominados, ganadores, géneros presentes) y también contará una historia relevante para la misma que evidencie la relación entre las listas de éxitos y los Grammys. Al final de la página está la opción de explorar las otras categorías o volver al inicio.
 
 La idea es que existan grandes temas que se repitan en las cuatro categorías, pero consideramos que dividir las narrativas hace que sea más ordenado y así no nos vemos obligadas a forzar conclusiones o temas para unificar todas las categorías en una sola página.
 
